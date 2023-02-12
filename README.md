@@ -1,4 +1,6 @@
-<h1 align="center">🤓 Siam_Tracer 😎</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=34&duration=3000&pause=500&color=E3E644&center=true&vCenter=true&width=435&lines=%F0%9F%A4%93+Siam_Tracer+%F0%9F%98%8E">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=500&color=89E68F&center=true&vCenter=true&width=435&lines=%7B+Made+With+%F0%9F%92%9A+By+Siam+Rahman+%7D">
